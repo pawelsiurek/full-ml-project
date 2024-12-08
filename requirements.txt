@@ -2,3 +2,17 @@ pandas
 numpy
 seaborn
 -e .
+
+WEJŚCIÓWKA!
+ps -f
+co oznacza pid uid ppid c stime tty time cmd - co oznaczaja pola
+===
+zastowowanie potokow
+head -n, tail -n, sort, uniq, wc -l
+będzie plik z imionami w którym trzeba wyrzucić unikalne imiona (?)
+===
+teoria dotyczaca procesow
+czym jest proces, jego elementy
+priorytet i jak go modyfikować w linuxie (nice, renice itd)
+stany procesów i ich opis
+etykiety użytkowników (user, fuser, suser itd, a takze uzytkownik efektywny)
